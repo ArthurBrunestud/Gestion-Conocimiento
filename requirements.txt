@@ -1,0 +1,5 @@
+Python: 3.11.9 
+Matplotlib: 3.7.5
+NumPy: 1.26.4
+Pandas: 2.1.4
+PyCaret: 3.3.2

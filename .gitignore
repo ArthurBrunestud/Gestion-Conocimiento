@@ -1,0 +1,20 @@
+
+# Entornos virtuales de Python
+env_pycaret/
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Variables de entorno y contraseñas
+.env
+.env.*
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
